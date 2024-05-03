@@ -1,5 +1,6 @@
 int main(){
-    int a=4;
+    int a,b;
+    a=4;
     b=5;
     a++,b--;
     cout<<++a<<" "<<b--;
